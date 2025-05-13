@@ -1,4 +1,4 @@
-# some python libraries we'll be using
+# mimi 
 import re, string, calendar
 from wikipedia import page
 from bs4 import BeautifulSoup
